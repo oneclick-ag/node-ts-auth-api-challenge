@@ -1,0 +1,14 @@
+{
+    "user": {
+        "id": "number",
+        "username": "string",
+        "password": "string",
+        "email": "string"
+    },
+    "session": {
+        "id": "number",
+        "userId": "number",
+        "token": "string",
+        "createdAt": "string"
+    }
+}
