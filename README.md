@@ -1,5 +1,3 @@
-Certainly! Here is the corrected text formatted as Markdown:
-
 # NodeJS/TypeScript Coding Challenge
 
 ## Project Overview
