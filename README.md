@@ -61,3 +61,10 @@ The data model is provided in a JSON file named `dataModel.json`:
     }
 }
 ```
+
+## Evaluation Criteria
+1. Code quality and organization.
+2. Adherence to RESTful principles and best practices.
+3. Proper error handling and input validation.
+4. Completeness of the solution.
+5. Bonus points for implementing nice-to-have features.
